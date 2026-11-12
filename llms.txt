@@ -1,0 +1,9 @@
+# RottenRopes
+
+> 공개 서비스의 공식 페이지 안내.
+
+## 사주토끼
+- [공식 소개](https://hazelejeong.github.io/sajutokki-public/): Android 웹툰 운세 앱.
+- [공식 제품 문서](https://hazelejeong.github.io/sajutokki-public/llms.txt): 무료 범위·상품·가격·계산 기준.
+
+사주토끼의 기능과 가격은 해당 서비스의 공식 소개 페이지가 원출처입니다.
